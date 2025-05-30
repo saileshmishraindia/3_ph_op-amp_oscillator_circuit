@@ -76,13 +76,14 @@ $$
 - **Study and analysis** of **3-phase power systems** in academics.  
 - **Generation of low-frequency 3-phase reference signals** in analog environments.
 
-## ✅ Conclusion
+## Conclusion
 
 **_This 3-phase oscillator design showcases how to produce phase-shifted sinusoidal signals using op-amp-based RC networks and diode amplitude stabilization. It is useful for analog simulations and educational demonstrations._**
 
-## 📚 References
+## References
 
-- **OP07 Datasheet** – [OP07 Datasheet](OP07.PDF)    
+- **OP07 (Op-Amp) Datasheet** – [OP07 Datasheet](OP07.PDF)
+- **1N4148 (Diode) Datasheet** – [1N4148 Datasheet](1N4148.PDF)    
 - **Sedra & Smith**, *Microelectronic Circuits*  
-- **LTspice Simulation Guide**
+
 
