@@ -26,8 +26,6 @@ This project implements a **3-phase sinusoidal oscillator circuit** using three 
 
 **To build a self-sustaining analog 3-phase oscillator using operational amplifiers and passive RC networks**, simulating three sinusoidal signals with 120° phase difference—ideal for testing and modeling 3-phase systems.
 
----
-
 ## System Block Diagram
 
 ![Block Diagram](Block_Diagram.png)
@@ -60,14 +58,13 @@ This project implements a **3-phase sinusoidal oscillator circuit** using three 
 
 ### Frequency of Oscillation:
 
-\[
-f = \frac{1}{2\pi RC \sqrt{6}} = \frac{1}{2\pi \times 22k \times 100n \times \sqrt{6}} \approx 121 \text{ Hz}
-\]
+$$
+f = \frac{1}{2\pi RC \sqrt{6}} = \frac{1}{2\pi \times 22k \times 100n \times \sqrt{6}} \approx 121\ \text{Hz}
+$$
 
 - **R = 22kΩ**  
 - **C = 100nF**
 
----
 
 ## 🌟 Performance Highlights
 
@@ -76,7 +73,6 @@ f = \frac{1}{2\pi RC \sqrt{6}} = \frac{1}{2\pi \times 22k \times 100n \times \sq
 - **Diode-based amplitude control** provides **stable output**.  
 - **Oscillations begin automatically** due to the feedback loop.
 
----
 
 ## 🧠 Applications and Use Cases
 
@@ -84,13 +80,9 @@ f = \frac{1}{2\pi RC \sqrt{6}} = \frac{1}{2\pi \times 22k \times 100n \times \sq
 - **Study and analysis** of **3-phase power systems** in academics.  
 - **Generation of low-frequency 3-phase reference signals** in analog environments.
 
----
-
 ## ✅ Conclusion
 
 **_This 3-phase oscillator design showcases how to produce phase-shifted sinusoidal signals using op-amp-based RC networks and diode amplitude stabilization. It is useful for analog simulations and educational demonstrations._**
-
----
 
 ## 📚 References
 
