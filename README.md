@@ -62,7 +62,7 @@ $$
 - **C = 100nF**
 
 
-## 🌟 Performance Highlights
+## Circuit Performance 
 
 - **Generates three sinusoidal signals at ~120 Hz.**  
 - **Each output is 120° out of phase** with the others.  
@@ -70,7 +70,7 @@ $$
 - **Oscillations begin automatically** due to the feedback loop.
 
 
-## 🧠 Applications and Use Cases
+## Applications and Use Cases
 
 - **Simulation and testing** of **3-phase induction motors**.  
 - **Study and analysis** of **3-phase power systems** in academics.  
