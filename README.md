@@ -82,7 +82,7 @@ $$
 
 ## 📚 References
 
-- **OP07 Datasheet** – [OP07 Datasheet](OP07.pdf)    
+- **OP07 Datasheet** – [OP07 Datasheet](OP07.PDF)    
 - **Sedra & Smith**, *Microelectronic Circuits*  
 - **LTspice Simulation Guide**
 
