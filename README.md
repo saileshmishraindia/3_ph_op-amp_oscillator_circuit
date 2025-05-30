@@ -1,10 +1,8 @@
 # 3-PHASE OSCILLATOR CIRCUIT USING OP07 OP-AMP
 
-## 🧾 Overview
+## Overview
 
 This project implements a **3-phase sinusoidal oscillator circuit** using three **LT1001 op-amps**, **RC feedback networks**, and **diode-limited amplitude control**. The oscillator generates **three sine waves** with **120° phase shift** between them, suitable for simulating 3-phase power systems and analog signal testing.
-
----
 
 ## Table of Contents
 
@@ -19,8 +17,6 @@ This project implements a **3-phase sinusoidal oscillator circuit** using three 
 - [Applications and Use Cases](#applications-and-use-cases)  
 - [Conclusion](#conclusion)  
 - [References](#references)  
-
----
 
 ## Project Objective
 
@@ -86,6 +82,6 @@ $$
 
 ## 📚 References
 
-- **LT1001 Datasheet** – [Analog Devices](https://www.analog.com/media/en/technical-documentation/data-sheets/lt1001.pdf)  
+- **OP07 Datasheet** – [Analog Devices](OP07.pdf)  
 - **Sedra & Smith**, *Microelectronic Circuits*  
 - **LTspice Simulation Guide**
