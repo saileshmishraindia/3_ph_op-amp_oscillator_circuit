@@ -61,6 +61,13 @@ $$
 - **R = 22kΩ**  
 - **C = 100nF**
 
+![Output](Output.png)
+
+![Output](Output_1.png)
+
+<p align="center"><strong>Figure 7 : Output Waveform showing distinct 3 sinusoidal waves with different phases</strong></p>
+
+
 
 ## Circuit Performance 
 
@@ -76,13 +83,23 @@ $$
 - **Study and analysis** of **3-phase power systems** in academics.  
 - **Generation of low-frequency 3-phase reference signals** in analog environments.
 
+### A Typical Application of LT1493 as a Precision AC to DC Converter(Full Wave Rectifier and Filter)
+
+![Typical_Application_LT1493](Typical_Application_LT1493.png)
+
+![Typical_Application_LT1493_Output](Typical_Application_LT1493_Output.png)
+
+![Typical_Application_LT1493_Output_1](Typical_Application_LT1493_Output_1.png)
+
+![Typical_Application_LT1493_Output_2](Typical_Application_LT1493_Output_2.png)
+
 ## Conclusion
 
 **_This 3-phase oscillator design showcases how to produce phase-shifted sinusoidal signals using op-amp-based RC networks and diode amplitude stabilization. It is useful for analog simulations and educational demonstrations._**
 
 ## References
 
-- **OP07 (Op-Amp) Datasheet** – [OP07 Datasheet](OP07.PDF)
+- **LT1493 (Op-Amp) Datasheet** – [LT1493 Datasheet](14923f.pdf)
 - **1N4148 (Diode) Datasheet** – [1N4148 Datasheet](1N4148.PDF)    
 - **Sedra & Smith**, *Microelectronic Circuits*  
 
