@@ -26,7 +26,7 @@ This project implements a **3-phase sinusoidal oscillator circuit** using three 
 
 ![Block Diagram](Block_Diagram.png)
 
-<p align="center"><strong>Figure 1: 3-Phase oscillator circuit using OP07 op-amp block diagram</strong></p>
+<p align="center"><strong>Figure 1: 3-Phase oscillator circuit using LT1493 op-amp block diagram</strong></p>
 
 ## Detailed Circuit Description
 
